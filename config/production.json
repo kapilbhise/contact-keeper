@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://admin-kapil:Kapil2408@cluster0.msrwt.mongodb.net/constact-keeper?retryWrites=true&w=majority",
+  "jwtSecret": "mySecret"
+}

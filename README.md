@@ -2,6 +2,8 @@
 Full stack MERN app which can be used to store contacts of user. Contacts are stored in database and app aslo has authentication using json web token.
 # Demo
 Link : https://peaceful-anchorage-22316.herokuapp.com/
+
+built from bradtraversy course
 ## Guide
 
 ```bash
